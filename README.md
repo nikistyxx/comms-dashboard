@@ -45,15 +45,16 @@ Both styles include the same data, features, and scheduled refresh. The only dif
 
 ## How to Install
 
-1. Download the skill file: `comms-dashboard.skill`
-2. Open Claude Desktop and start a new Cowork session.
-3. Drag the `.skill` file into the chat window.
-4. Click "Save skill" — that's it.
-
-Or install via the skills CLI:
-
+**Via CLI:**
 ```bash
 npx skills add nikistyxx/comms-dashboard
+```
+
+**Or manually:**
+1. Download `SKILL.md` from this repo
+2. Open Claude Desktop and start a new Cowork session
+3. Drag the `SKILL.md` file into the chat window
+4. Click "Save skill" — that's it
 ```
 
 ---
